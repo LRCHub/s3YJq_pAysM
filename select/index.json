@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Sunflower",
+  "base_artist": "Red Velvet",
+  "createdAt": "2025-12-07T08:52:21.715050Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "제자리걸음 Sunflower",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/01_제자리걸음_Sunflower_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "제자리걸음 (Sunflower)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/02_제자리걸음_(Sunflower)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sunflower Seeds",
+      "artist": "Young Nudy feat. Pi’erre Bourne",
+      "has_synced": true,
+      "path": "select/03_Sunflower_Seeds_Young_Nudy_feat._Pi’erre_Bourne.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sunflower Seeds",
+      "artist": "Young Nudy & Pi'erre Bourne",
+      "has_synced": true,
+      "path": "select/04_Sunflower_Seeds_Young_Nudy_&_Pi'erre_Bourne.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sunflower",
+      "artist": "Low",
+      "has_synced": false,
+      "path": "select/05_Sunflower_Low.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sunflower",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Leah Zeger",
+      "has_synced": true,
+      "path": "select/06_Sunflower_Scott_Bradlee's_Postmodern_Jukebox_feat._Leah_Zeger.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sunflower",
+      "artist": "Heart",
+      "has_synced": false,
+      "path": "select/07_Sunflower_Heart.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sunflower",
+      "artist": "Paul Weller",
+      "has_synced": true,
+      "path": "select/08_Sunflower_Paul_Weller.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sunflower (Afrobeats Remix)",
+      "artist": "Post Malone feat. Swae Lee",
+      "has_synced": true,
+      "path": "select/09_Sunflower_(Afrobeats_Remix)_Post_Malone_feat._Swae_Lee.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sunflower (feat. Swae Lee)",
+      "artist": "Post Malone",
+      "has_synced": true,
+      "path": "select/10_Sunflower_(feat._Swae_Lee)_Post_Malone.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+      "artist": "Post Malone feat. Swae Lee",
+      "has_synced": true,
+      "path": "select/11_Sunflower_(Spider-Man__Into_the_Spider-Verse)_Post_Malone_feat._Swae_Lee.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sunflower (Spider‐Man: Into the Spider‐Verse)",
+      "artist": "Post Malone & Swae Lee",
+      "has_synced": true,
+      "path": "select/12_Sunflower_(Spider‐Man__Into_the_Spider‐Verse)_Post_Malone_&_Swae_Lee.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sunflower Princess",
+      "artist": "Refused",
+      "has_synced": false,
+      "path": "select/13_Sunflower_Princess_Refused.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "China Cat Sunflower",
+      "artist": "Grateful Dead",
+      "has_synced": true,
+      "path": "select/14_China_Cat_Sunflower_Grateful_Dead.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sunflower (feat. Steve Lacy)",
+      "artist": "Vampire Weekend feat. Steve Lacy",
+      "has_synced": true,
+      "path": "select/15_Sunflower_(feat._Steve_Lacy)_Vampire_Weekend_feat._Steve_Lacy.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sunflower (feat. Steve Lacy)",
+      "artist": "Vampire Weekend",
+      "has_synced": true,
+      "path": "select/16_Sunflower_(feat._Steve_Lacy)_Vampire_Weekend.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sunflower",
+      "artist": "Red Velvet",
+      "has_synced": false,
+      "path": "select/pl_01_Sunflower_Red_Velvet.txt"
+    }
+  ]
+}
